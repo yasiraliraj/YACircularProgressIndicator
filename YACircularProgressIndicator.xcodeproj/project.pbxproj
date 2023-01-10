@@ -13,6 +13,7 @@
 		45617FD2296D33F3009B61AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45617FD0296D33F3009B61AA /* Main.storyboard */; };
 		45617FD4296D33F4009B61AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45617FD3296D33F4009B61AA /* Assets.xcassets */; };
 		45617FD7296D33F4009B61AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45617FD5296D33F4009B61AA /* LaunchScreen.storyboard */; };
+		45B4706C296D3EB100E11707 /* YACircularProgressIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B4706B296D3EB100E11707 /* YACircularProgressIndicator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		45617FD3296D33F4009B61AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45617FD6296D33F4009B61AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		45617FD8296D33F4009B61AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45B4706B296D3EB100E11707 /* YACircularProgressIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YACircularProgressIndicator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				45617FCA296D33F3009B61AA /* AppDelegate.swift */,
 				45617FCC296D33F3009B61AA /* SceneDelegate.swift */,
 				45617FCE296D33F3009B61AA /* ViewController.swift */,
+				45B4706B296D3EB100E11707 /* YACircularProgressIndicator.swift */,
 				45617FD0296D33F3009B61AA /* Main.storyboard */,
 				45617FD3296D33F4009B61AA /* Assets.xcassets */,
 				45617FD5296D33F4009B61AA /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				45617FCF296D33F3009B61AA /* ViewController.swift in Sources */,
 				45617FCB296D33F3009B61AA /* AppDelegate.swift in Sources */,
 				45617FCD296D33F3009B61AA /* SceneDelegate.swift in Sources */,
+				45B4706C296D3EB100E11707 /* YACircularProgressIndicator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
